@@ -388,7 +388,7 @@ header ul.menu-right li.menu-cta a {
 }
 
 .left1{
-	background: url("/images/Contact\ us-amico.png") no-repeat center;
+	background: url("../images/contact-us.png") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
